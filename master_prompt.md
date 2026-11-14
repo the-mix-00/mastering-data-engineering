@@ -1,3 +1,7 @@
+Got it—that makes total sense. Using a structured TOC and working through it **subsection by subsection with an AI tutor** is actually one of the fastest ways to build deep mental models, because you can interrupt, ask *"wait, why?"*, and drill down on the exact parts you don't understand.
+
+The only trap with AI-chat studying is **passive reading illusion**: if you just paste *"Explain 5.2 Compression & Encoding Schemes"*, the AI will give you a tidy 5-bullet Wikipedia summary, you'll nod along, and three days later you won't be able to explain it in an interview.
+
 To make AI-chat studying build **actual Senior-level intuition** (even without coding projects), you want the AI to teach using **numbers, memory/network diagrams, failure modes, and live diagnostic quizzes.**
 
 ---
